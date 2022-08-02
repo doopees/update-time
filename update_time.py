@@ -1,5 +1,8 @@
 #!/usr/bin/env python2
 
+# A symbolic link to this file was created in /bin/
+# and @reboot /bin/update_time.py & was added to crontab.
+
 import os
 import json
 import commands
